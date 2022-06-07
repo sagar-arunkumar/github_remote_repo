@@ -7,4 +7,4 @@ one line added in readme
 line added in github online
 recheck
 again check
-check in giuthub
+check in github
